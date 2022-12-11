@@ -1,5 +1,5 @@
 - Hi, I’m @Blue3141
-- Currently studying Computer Science at Milano-Bicocca Uni
-- Just looking around...for now
-- Owner of informatica9.org, a little website for Uni things
+- Currently studying Computer Science at Università degli studi di Milano-Bicocca
+- Just looking around... for now
+- Owner of informatica9.org (now blue3141.dev), a little website for Uni things
 - I want a cat
